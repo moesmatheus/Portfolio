@@ -35,35 +35,35 @@ export default function ListPort(){
             <ListItemIcon>
                 <ExploreIcon/>
             </ListItemIcon>
-            <ListItemText primary="Exploratory Analysis" secondary="A tool for extracting tabular data from PDF files " />
+            <ListItemText primary="Exploratory Analysis" secondary="Simple Exploratory analysis app" />
         </ListItem>
 
         <ListItem button component="a" href="https://github.com/moesmatheus/text-mining-mba/blob/master/NLP.ipynb">
             <ListItemIcon>
                 <MenuBookIcon/>
             </ListItemIcon>
-            <ListItemText primary="Text Mining" secondary="A tool for extracting tabular data from PDF files " />
+            <ListItemText primary="Text Mining" secondary="Jupyter Notebook performing text mining book" />
         </ListItem>
 
         <ListItem button component="a" href="https://github.com/moesmatheus/estatistica-espacial-2/blob/master/semana-2.ipynb">
             <ListItemIcon>
                 <RoomIcon/>
             </ListItemIcon>
-            <ListItemText primary="Spatial Statistics" secondary="A tool for extracting tabular data from PDF files " />
+            <ListItemText primary="Spatial Statistics" secondary="Jupyter Notebook with spatial statistics using GeoPandas" />
         </ListItem>
 
         <ListItem button component="a" href="https://github.com/moesmatheus/projeto-mba-spark/blob/master/trabalho.ipynb">
             <ListItemIcon>
                 <StorageIcon/>
             </ListItemIcon>
-            <ListItemText primary="PySpark" secondary="A tool for extracting tabular data from PDF files " />
+            <ListItemText primary="PySpark" secondary="Jupyter Notebook with PySpark Machine Learning applications" />
         </ListItem>
 
         <ListItem button component="a" href="https://github.com/moesmatheus/Series-Temporais/blob/master/fertilizantes.pdf">
             <ListItemIcon>
                 <HourglassEmptyIcon/>
             </ListItemIcon>
-            <ListItemText primary="Time Series Analysis" secondary="A tool for extracting tabular data from PDF files " />
+            <ListItemText primary="Time Series Analysis" secondary="Set of time series techniques using R" />
         </ListItem>
 
       </List>
