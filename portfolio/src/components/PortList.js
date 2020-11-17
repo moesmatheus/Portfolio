@@ -21,7 +21,7 @@ export default function ListPort(){
           <ListItemIcon>
             <TrendingUpIcon />
           </ListItemIcon>
-          <ListItemText primary="bData" secondary="Financial Information Project" />
+          <ListItemText primary="bData" secondary="Financial Information Project - hosting is at a free server so it may take some time to load" />
         </ListItem>
 
         <ListItem button component="a" href="https://www.pdf-excel.app/">
@@ -42,7 +42,7 @@ export default function ListPort(){
             <ListItemIcon>
                 <MenuBookIcon/>
             </ListItemIcon>
-            <ListItemText primary="Text Mining" secondary="Jupyter Notebook performing text mining book" />
+            <ListItemText primary="Text Mining" secondary="Jupyter Notebook performing text mining on a book" />
         </ListItem>
 
         <ListItem button component="a" href="https://github.com/moesmatheus/estatistica-espacial-2/blob/master/semana-2.ipynb">
