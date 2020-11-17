@@ -25,7 +25,7 @@ function App() {
 
           <Grid item xs={12} alignItems="flex-start" alignContent="flex-start">
 
-            <Typography variant="h5" align="left">Portfolio Matheus Amaral</Typography>
+            <Typography variant="h6" align="left">Portfolio Matheus Amaral</Typography>
 
           </Grid>
 
